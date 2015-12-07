@@ -32,3 +32,8 @@ JSON data resolver with support for plugins.
 
 * Free software: BSD license
 * Documentation: https://pythonhosted.org/jsonresolver/
+
+
+.. image:: https://badges.gitter.im/Join%20Chat.svg
+   :alt: Join the chat at https://gitter.im/krzysztof/jsonresolver
+   :target: https://gitter.im/krzysztof/jsonresolver?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge
